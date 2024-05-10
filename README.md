@@ -52,3 +52,7 @@ I am  Amitav Choubey a  Node js developer familiar with a wide range of programm
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/AChoubey-Git/AChoubey-Git/output/snake.svg" alt="Snake animation" />
+
+###
