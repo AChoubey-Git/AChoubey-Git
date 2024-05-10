@@ -36,6 +36,20 @@ I am  Amitav Choubey a  Node js developer familiar with a wide range of programm
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <p/>
 
 
+## Projects:
+- [DataFetch](https://www.datafetch.io):
+  - DataFetch is an app for Slack and Microsoft Teams which enables users to save time, reduce distraction, and become more productive. Rather than having to go hunting for data in different silos in your organization, DataFetch users can make the data they want come to them.
+  - Developed REST calls using Restful Services
+  - Integrated multiple third party application for datafetch uses (e.g.Airtable, SnowFlake, GoogleDrive, Jira, MySql).
+  - Used technology : NestJs, Angular, MongoDb, ElasticSearch, Redis, hashicorp vault, GCP, DigitalOcean,
+ 
+- **OKR(Objectives and Key Results)**
+  - OKRs are an effective goal-setting and leadership tool for communicating what you want to accomplish and what milestones you’ll need to meet in order to accomplish it.
+  - I was in the team who is responsible for maintaining OkR-backend and as well as OKR-dashboard.
+  - Fixed some of the serious bugs like pagination issue, state management
+  - Create task scheduling services with corn and redis.
+  - Used technology : Nestjs, React, Redux, Redis, slack, mongoDB
+
 ## Connect with me:
 
 <p align = "center">
