@@ -51,6 +51,7 @@ I am  Amitav Choubey a  Node js developer familiar with a wide range of programm
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AChoubey-Git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
 ###
 
 <img src="https://raw.githubusercontent.com/AChoubey-Git/AChoubey-Git/output/snake.svg" alt="Snake animation" />
