@@ -6,7 +6,7 @@
 </p>
 
 ![I am a nodejs backend developer](https://github.com/AChoubey-Git/AChoubey-Git/blob/main/NodeJS-Developer-Tools.png)
-I am  Amitav Choubey a  Node js developer familiar with a wide range of programming utilities and languages. Knowledgeable backend development requirements and hands-on experience in the frontend as well . Handle any part of the process with ease. Collaborative team player with excellent technical abilities offering 2 years of related holistic experience.
+I am  Amitav Choubey a  Node js developer familiar with a wide range of programming utilities and languages. Knowledgeable backend development requirements and hands-on experience in the frontend as well . Handle any part of the process with ease. Collaborative team player with excellent technical abilities offering 3 years of related holistic experience.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -37,6 +37,17 @@ I am  Amitav Choubey a  Node js developer familiar with a wide range of programm
 
 
 ## Projects:
+- [Chateau d’Ivoire](https://chateaudivoire.com/) – Luxury E-Commerce Platform
+  - Built a high-performance, headless e-commerce experience using Shopify Hydrogen and Remix, leveraging Remix's server-side rendering and streaming capabilities to optimize UX
+  - Utilizing Shopify Storefront GraphQL API for product and inventory management, paired with Sanity CMS for real-time content control.
+  - Ensuring privacy compliance with CookieYes, managing cookie consent seamlessly.
+  - Building a modern, performant frontend using Remix, focusing on server side rendering and enhanced UX.
+  - Implementing a custom Stripe-powered checkout for deposit payments and in-store pickup options.
+  - Integrating Rolex tracking mechanisms in adherence to Rolex brand guidelines.
+  - Enabling granular event tracking using Google Analytics for user behavior insights.
+  - Creating a centralized search experience that spans both Shopify and Sanity catalogs (including Rolex collections & products).
+  - Used technology : Remix,Shopify hydrogen, Sanity(CMS), PostgreSQL,Strip,Cookiesyes
+    
 - [DataFetch](https://www.datafetch.io):
   - DataFetch is an app for Slack and Microsoft Teams which enables users to save time, reduce distraction, and become more productive. Rather than having to go hunting for data in different silos in your organization, DataFetch users can make the data they want come to them.
   - Developed REST calls using Restful Services
