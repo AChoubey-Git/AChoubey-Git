@@ -14,7 +14,7 @@ I am  Amitav Choubey a  Node js developer familiar with a wide range of programm
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 # 🎨 Frontend Development:
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
+<p align="left"> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
 
 
 # :gear: Backend Development:
@@ -38,21 +38,16 @@ I am  Amitav Choubey a  Node js developer familiar with a wide range of programm
 
 ## Projects:
 - [Chateau d’Ivoire](https://chateaudivoire.com/) – Luxury E-Commerce Platform
-  - Built a high-performance, headless e-commerce experience using Shopify Hydrogen and Remix, leveraging Remix's server-side rendering and streaming capabilities to optimize UX
-  - Utilizing Shopify Storefront GraphQL API for product and inventory management, paired with Sanity CMS for real-time content control.
-  - Ensuring privacy compliance with CookieYes, managing cookie consent seamlessly.
-  - Building a modern, performant frontend using Remix, focusing on server side rendering and enhanced UX.
-  - Implementing a custom Stripe-powered checkout for deposit payments and in-store pickup options.
-  - Integrating Rolex tracking mechanisms in adherence to Rolex brand guidelines.
-  - Enabling granular event tracking using Google Analytics for user behavior insights.
-  - Creating a centralized search experience that spans both Shopify and Sanity catalogs (including Rolex collections & products).
-  - Used technology : Remix,Shopify hydrogen, Sanity(CMS), PostgreSQL,Strip,Cookiesyes
+  - Built a high-performance headless commerce platform with Remix/Next.js SSR and Hydrogen, delivering fast, fluid luxury shopping
+experiences.
+  - Integrated Shopify Storefront GraphQL API seamlessly to manage real-time synchronized products and inventory catalogs.
+  - Built a centralized global search across Shopify and Sanity CMS catalogs, specialized for custom Rolex product collections.
+  - Reduced content deployment times by 60% by integrating Sanity CMS with custom GROQ queries to optimize backend-to-frontend data pipeline efficiency.
     
 - [DataFetch](https://www.datafetch.io):
-  - DataFetch is an app for Slack and Microsoft Teams which enables users to save time, reduce distraction, and become more productive. Rather than having to go hunting for data in different silos in your organization, DataFetch users can make the data they want come to them.
-  - Developed REST calls using Restful Services
-  - Integrated multiple third party application for datafetch uses (e.g.Airtable, SnowFlake, GoogleDrive, Jira, MySql).
-  - Used technology : NestJs, Angular, MongoDb, ElasticSearch, Redis, hashicorp vault, GCP, DigitalOcean,
+  - Built enterprise backend APIs enabling organizations to fetch critical business data safely and directly within Slack and Microsoft Teams. 
+  - Orchestrated highly resilient background workflows with Bull queues, handling retries, scheduling, and full lifecycle event queues.
+  - Implemented error tracking with Rollbar and real-time cache refresh notifications via Pub/Sub to ensure high application fault-tolerance.
  
 - **OKR(Objectives and Key Results)**
   - OKRs are an effective goal-setting and leadership tool for communicating what you want to accomplish and what milestones you’ll need to meet in order to accomplish it.
