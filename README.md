@@ -6,7 +6,9 @@
 </p>
 
 ![I am a nodejs backend developer](https://github.com/AChoubey-Git/AChoubey-Git/blob/main/NodeJS-Developer-Tools.png)
-I am  Amitav Choubey a  Node js developer familiar with a wide range of programming utilities and languages. Knowledgeable backend development requirements and hands-on experience in the frontend as well . Handle any part of the process with ease. Collaborative team player with excellent technical abilities offering 3 years of related holistic experience.
+I'm a Full-Stack Developer with 4 years of experience building scalable, high-performance web applications. Specializing in Node.js, NestJS, and the React ecosystem, I have a strong track record of developing robust REST/GraphQL APIs, orchestration workflows, and microservices that solve real business problems.
+
+I enjoy taking ownership of the complete development lifecycle—from understanding business requirements to architecting scalable systems, backend development, logical frontend integration, deployment, and long-term maintenance. I work closely with clients to deliver end-to-end features, ensuring successful delivery of production-grade, maintainable solutions.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -38,23 +40,27 @@ I am  Amitav Choubey a  Node js developer familiar with a wide range of programm
 
 ## Projects:
 - [Chateau d’Ivoire](https://chateaudivoire.com/) – Luxury E-Commerce Platform
-  - Built a high-performance headless commerce platform with Remix/Next.js SSR and Hydrogen, delivering fast, fluid luxury shopping
-experiences.
-  - Integrated Shopify Storefront GraphQL API seamlessly to manage real-time synchronized products and inventory catalogs.
-  - Built a centralized global search across Shopify and Sanity CMS catalogs, specialized for custom Rolex product collections.
-  - Reduced content deployment times by 60% by integrating Sanity CMS with custom GROQ queries to optimize backend-to-frontend data pipeline efficiency.
+  - Developed and optimized REST & GraphQL APIs with NestJS, improving backend data flow and frontend integration efficiency.
+  - Containerized services with Docker and implemented Redis caching, boosting scalability and query performance.
+  - Integrated Sanity CMS using custom GROQ queries, reducing editor content update time by 60%.
+  - Improved frontend performance with SSR, caching, and bundle optimization, achieving 35% faster load times.
+  - Implemented product-tracking modules for Rolex, enhancing product traceability and data accuracy.
+  - Built advanced Google Analytics event tracking, enabling deeper insights into user behavior and engagement.
     
 - [DataFetch](https://www.datafetch.io):
-  - Built enterprise backend APIs enabling organizations to fetch critical business data safely and directly within Slack and Microsoft Teams. 
-  - Orchestrated highly resilient background workflows with Bull queues, handling retries, scheduling, and full lifecycle event queues.
-  - Implemented error tracking with Rollbar and real-time cache refresh notifications via Pub/Sub to ensure high application fault-tolerance.
+  - Delivered high-availability backend features using Node.js, NestJS, MongoDB, Elasticsearch, and microservice architectural patterns.
+  - Integrated enterprise 3rd-party services using secure OAuth 2.0 protocols (Airtable, Snowflake, Google Drive, Jira, MySQL).
+  - Built custom productivity automation workflows, including Slack apps and Microsoft Teams bots using Teams Toolkit and NestJS.
+  - Implemented event caching and advanced global text search using Elasticsearch and Redis, significantly boosting complex query retrieval speeds.
+  - Took ownership of end-to-end integration and unit testing to ensure high application fault-tolerance and reliability.
+  - Developed user-facing features using React and React Native for various client projects.
  
 - **OKR(Objectives and Key Results)**
-  - OKRs are an effective goal-setting and leadership tool for communicating what you want to accomplish and what milestones you’ll need to meet in order to accomplish it.
-  - I was in the team who is responsible for maintaining OkR-backend and as well as OKR-dashboard.
-  - Fixed some of the serious bugs like pagination issue, state management
-  - Create task scheduling services with corn and redis.
-  - Used technology : Nestjs, React, Redux, Redis, slack, mongoDB
+  - OKRs are an effective goal-setting and leadership tool for communicating what you want to accomplish and what milestones you’ll need to meet to accomplish it.
+  - I was on the team who is responsible for maintaining OKR-backend as well as OKR-dashboard.
+  - Fixed some of the serious bugs, like pagination issue, state management
+  - Created task scheduling services with cron and Redis.
+  - Used technology: Nestjs, React, Redux, Redis, Slack, MongoDB
 
 ## Connect with me:
 
